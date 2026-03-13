@@ -1,0 +1,25 @@
+HTTrack3.49-2 launched on Mon, 09 Mar 2026 19:26:24 at https://sushi7.net +*sushi7.net/*
+(httrack https://sushi7.net -O ./mirror/sushi7.net +*sushi7.net/* -r5 -%e5 -d -c2 -%c1 -T30 -R5 -s0 -q -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:31:37	Error: 	"Bad Request" (400) at link https://sushi7.net/wp-admin/admin-ajax.php (from https://sushi7.net/)
+19:31:37	Warning: 	Moved Permanently for https://sushi7.net/?p=27
+19:31:37	Warning: 	File has moved from https://sushi7.net/?p=27 to https://sushi7.net/contact-us/
+19:31:51	Warning: 	Moved Permanently for https://sushi7.net/?p=413
+19:31:51	Warning: 	File has moved from https://sushi7.net/?p=413 to https://sushi7.net/about-us/
+19:31:51	Warning: 	Moved Permanently for https://sushi7.net/?p=384
+19:31:51	Warning: 	File has moved from https://sushi7.net/?p=384 to https://sushi7.net/menu-2/
+19:31:51	Warning: 	Moved Permanently for https://sushi7.net/?p=507
+19:31:51	Warning: 	File has moved from https://sushi7.net/?p=507 to https://sushi7.net/order-sushi-baltimore-location-only/
+19:31:51	Warning: 	Moved Permanently for https://sushi7.net/?p=431
+19:31:51	Warning: 	File has moved from https://sushi7.net/?p=431 to https://sushi7.net/parties-and-events/
+19:31:51	Warning: 	Moved Permanently for https://sushi7.net/?p=29
+19:31:51	Warning: 	File has moved from https://sushi7.net/?p=29 to https://sushi7.net/location/
+19:31:51	Error: 	"Not Found" (404) at link https://sushi7.net/wp-content/uploads/visualcomposer-assets/sharedLibraries/iconpicker/dist/[object (from https://sushi7.net/wp-content/uploads/visualcomposer-assets/sharedLibraries/iconpicker/dist/fontawesome.bundle.css?ver=0-413)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 27 seconds : 269 links scanned, 261 files written (56572491 bytes overall) [56759912 bytes received at 173577 bytes/sec], 11.7 requests per connection
+(2 errors, 12 warnings, 0 messages)
